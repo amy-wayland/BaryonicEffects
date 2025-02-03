@@ -4,6 +4,8 @@ kSZclass.py : class containing methods to calculate the theoretical prediction f
 
 GasProfile.py : class containing methods to calculate the theoretical predictions for both the X-ray gas fraction and the compensated apertutre photometry CMB temperature shift due to the kSZ effect.
 
+lsst_mcmc_wl_only.py : code to run a likelihood with mock weak lensing data only.
+
 lsst_mcmc_with_ksz.py : code to run a likelihood with mock weak lensing data combined with mock kSZ data.
 
 lsst_mcmc_with_xrays.py : code to run a likelihood with mock weak lensing data combined with mock X-ray gas fraction data.
